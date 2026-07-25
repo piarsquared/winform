@@ -1,6 +1,6 @@
 # winform
 
-A Windows-only last resort USB disk recovery utility.
+A Windows-only last resort USB disk reusability utility.
 
 ## About
 
